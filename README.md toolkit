@@ -1,0 +1,21 @@
+# PLP Python Week 8 Toolkit
+
+## What My Toolkit Does
+
+My Python Toolkit is a menu-driven program containing four useful tools. The tools are a Number Guessing Game, a To-Do List, a Simple Calculator, and a Name Formatter. The program allows the user to select a tool from the menu and returns to the menu after the tool is finished.
+
+## How to Run
+
+1. Make sure Python is installed on your computer.
+2. Open a terminal in the project folder.
+3. Run the program with:
+
+```bash
+python toolkit.py
+```
+
+4. Follow the menu instructions and choose a tool.
+
+## Reflection
+
+The hardest part of this project was connecting all the different tools to one main menu. I had to make sure that the menu continued running after each tool finished. The bug that took the longest to fix was handling invalid user input without allowing the program to crash. I also had to make sure that the to-do list could change while the program was running. Testing every menu option helped me find and fix small problems in the program. I learned how loops, lists, conditionals, functions, and f-strings can work together in one Python project. With one more week, I would add more tools such as a countdown timer, a password generator, and a more advanced calculator.

@@ -1,0 +1,57 @@
+PLP Python Week 8 Toolkit Plan
+
+TOOLS
+
+1. Number Guessing Game
+The number guessing game lets the user guess a secret number and tells them whether their guess is too high or too low.
+
+2. To-Do List
+The to-do list lets the user add tasks, view tasks, and remove tasks while the program is running.
+
+3. Simple Calculator
+The calculator lets the user perform addition, subtraction, multiplication, and division.
+
+4. Name Formatter
+The name formatter asks for a person's name and displays it in a neat, friendly format.
+
+MENU TEXT
+
+==============================
+Welcome to My Python Toolkit!
+==============================
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Name Formatter
+5. Quit
+==============================
+
+CONCEPTS USED
+
+Number Guessing Game:
+- Loop
+- Conditional statements
+- Variables
+- User input
+- f-strings
+
+To-Do List:
+- List
+- List methods
+- Loop
+- Conditional statements
+- User input
+- f-strings
+
+Simple Calculator:
+- Conditional statements
+- Variables
+- User input
+- Arithmetic operators
+- f-strings
+
+Name Formatter:
+- String methods
+- Variables
+- User input
+- f-strings
